@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViewWithDataBindingLibrary</string>
+
+    <string-array name="names">
+        <item> John Snow</item>
+        <item> John Cena</item>
+        <item> Randy Orton</item>
+        <item> Oliver Queen</item>
+        <item> Tony Stark</item>
+        <item> Mike Tyson </item>
+        <item> Mat Hardy</item>
+        <item> John Wick</item>
+        <item> Koffee Kingston</item>
+        <item> Jeff Hardy </item>
+    </string-array>
+
+    <string-array name="emails">
+        <item> JohnSnow@gmail.com</item>
+        <item> JohnCena@gmail.com</item>
+        <item> RandyOrton@gmail.com</item>
+        <item> OliverQueen@gmail.com</item>
+        <item> TonyStark@gmail.com</item>
+        <item> MikeTyson@gmail.com </item>
+        <item> MatHardy@gmail.com</item>
+        <item> JohnWick@gmail.com</item>
+        <item> KoffeeKingston@gmail.com</item>
+        <item> JeffHardy@gmail.com </item>
+    </string-array>
+</resources>
